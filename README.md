@@ -1,4 +1,4 @@
-Exercise Tracker Web Application
+Exercise Tracker Web Application: 
 A full-stack exercise tracking application built with React and REST APIs.
 
 Features:
